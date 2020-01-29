@@ -1,0 +1,536 @@
+,Sentence_ID,text
+0,ARTHROTEC.1.txt.0,"I feel a bit drowsy & have a little blurred vision, so far no gastric problems."
+1,ARTHROTEC.1.txt.1,"I've been on Arthrotec 50 for over 10 years on and off, only taking it when I needed it."
+2,ARTHROTEC.1.txt.2,"Due to my arthritis getting progressively worse, to the point where I am in tears with the agony, gp's started me on 75 twice a day and I have to take it."
+3,ARTHROTEC.1.txt.3,"every day for the next month to see how I get on, here goes."
+4,ARTHROTEC.1.txt.4,"So far its been very good, pains almost gone, but I feel a bit weird, didn't have that when on 50."
+5,ARTHROTEC.2.txt.0,"heartburn, nausea, frequent feelings of voracious hunger & sharp unbearable cramping pains in lower gut."
+6,ARTHROTEC.2.txt.1,Did not seem to make a lot of difference to the pain it was supposed to be treating.
+7,ARTHROTEC.2.txt.2,"Stopped taking it after 13 days, prefer the pain in my forearms."
+8,ARTHROTEC.3.txt.0,Constipation right from the start and in ladt 4 weeks extreme joint pain at night (just few hours after taking tablets).
+9,ARTHROTEC.3.txt.1,Pain so bad it disrupted my sleep co pletely.
+10,ARTHROTEC.3.txt.2,"also, extreme itching on legs and arms, so bad I scrathced myself raw."
+11,ARTHROTEC.3.txt.3,"mobility has DECREASED rapidly, especially when trying to go down stairs."
+12,ARTHROTEC.3.txt.4,Was warned about possibility of constipation but think doctor underestimated how severe it would get.
+13,ARTHROTEC.3.txt.5,Arthrotec was supposed to ease my pain not make it worse.
+14,ARTHROTEC.3.txt.6,Have stopped taking and immediatedly muscle/joint pain eased and sleeping much better.
+15,ARTHROTEC.3.txt.7,Have reverted to use of co-codamol to ease symptoms as required.
+16,ARTHROTEC.4.txt.0,I am menstruating with heavy bleeding every 11 days.
+17,ARTHROTEC.4.txt.1,"Honestly, I can't figure out how I can lose this much blood and still function."
+18,ARTHROTEC.4.txt.2,"I have horrific cramps to begin with, so I can't say whether arthrotec increased that."
+19,ARTHROTEC.4.txt.3,"I have endometriosis, so I'm not sure if that is something that doesn't agree with arthrotec."
+20,ARTHROTEC.4.txt.4,"It did help with the pain I experience with the pinched nerve, but it is not worth it to me to continue."
+21,ARTHROTEC.5.txt.0,No side effects.
+22,ARTHROTEC.5.txt.1,I tried the advertised Arthritis medicines with severe side-effects and only tried this one because the doctor had samples.
+23,ARTHROTEC.5.txt.2,"Instead of taking the pill 2X daily, as prescribed I take it at most once per day, usually about 3-4 times per week, but often skipping a week or two at a time."
+24,ARTHROTEC.5.txt.3,My arthritis has been under control for years and only causes me trouble if I skip taking the pills for about a month.
+25,ARTHROTEC.5.txt.4,At the time this was prescribed the doctor was discussing the strongest possible medicines in serious (threatening) doses.
+26,ARTHROTEC.5.txt.5,This drug has been a god-send for me.
+27,ARTHROTEC.6.txt.0,"It began with stomach pain,then slight nausea, then reflux each time I took a pill."
+28,ARTHROTEC.6.txt.1,"After the second pill the same progression of symptoms only now the abdominal gas,cramps and pain would be with me all day."
+29,ARTHROTEC.6.txt.2,I stopped pills but abdominal cramps persist.
+30,ARTHROTEC.6.txt.3,The only good thing I can say about Arthrotec is that I did notice pain relief but I won't put up with the side effects on a daily basis since I spent a long time getting rid of a reflux problem in the past.
+31,ARTHROTEC.6.txt.4,"The abdominal gas,cramps and discomfort are another thing I don't want to see get worse if I keep taking Arthrotec."
+32,ARTHROTEC.6.txt.5,I've taken Tylenol 3 and never had a problem like this.
+33,ARTHROTEC.6.txt.6,Perhaps there is something not right yet with Arthrotec.
+34,ARTHROTEC.7.txt.0,"started having a severe sudden onset headache in the back of head, resulted in trip to DR, BP was extrememly high, and pulse was high as well, after three shots, and 3 clonidine to bring down bp was recommend to visit ER."
+35,ARTHROTEC.7.txt.1,"Had high BP for another 10 days, before it came back down to normal, and pulse is still extremely high 3 weeks after stopping the medicine."
+36,ARTHROTEC.7.txt.2,"I only took for 7 days, and it caused this much problems."
+37,ARTHROTEC.7.txt.3,"Never again, I would not recommend this to use."
+38,ARTHROTEC.7.txt.4,"I have had 2 trips back to dr, since this happened and a third visit due to the tachycardia is schedule in 3 more days."
+39,ARTHROTEC.7.txt.5,I will not use anymore.
+40,ARTHROTEC.8.txt.0,"No side effect to begin, but now starting to upset my stomach even while taking with food and plenty of water."
+41,ARTHROTEC.8.txt.1,Didn't work for me.
+42,ARTHROTEC.8.txt.2,"Still can't sleep, can't work without pain."
+43,ARTHROTEC.8.txt.3,Didn't see any positive change.
+44,ARTHROTEC.9.txt.txt.0,"vomitting - I have to fight to not throw up I am supposed to take this twice a day - but it makes me soooooo sick that I take literally as I a going to bed, so that I am asleep before the sickness kicks in."
+45,ARTHROTEC.9.txt.txt.1,I have tried and tried to take the day dose - but I would rather live without the sickness - its just too awful.
+46,ARTHROTEC.9.txt.txt.2,"very painful joints - but with this tablet, the pain is much much reduced."
+47,ARTHROTEC.9.txt.txt.3,If I miss a couple of days I really know about it.
+48,ARTHROTEC.9.txt.txt.4,If I could find the same sort of thing without the EXTREME nausea - I would switch drugs in teh blink of an eye.
+49,ARTHROTEC.10.txt.0,Hunger pangs.
+50,ARTHROTEC.10.txt.1,"Brilliant, I have a new lease of life, i walk up & down steps properly, no longer sideways like a toddler, hip pain as gone other than if i jar it."
+51,ARTHROTEC.11.txt.0,I have no side effects that I am aware of.
+52,ARTHROTEC.11.txt.1,I have tried various pain meds for the shoulder and nothing worked.
+53,ARTHROTEC.11.txt.2,I was skeptical when my doctor asked me to try Arthrotec but my pain is totally under control without any apparent side effects.
+54,ARTHROTEC.12.txt.0,Some stomach sensitivity.
+55,ARTHROTEC.12.txt.1,I am taking it only 1 time per day because of the possible side effects.
+56,ARTHROTEC.12.txt.2,Without this drug I was severly restricted and could only walk less than 100 meters.
+57,ARTHROTEC.12.txt.3,With the drug I can walk 1/2 km and function.
+58,ARTHROTEC.12.txt.4,I am thinking of increasing it to twice per day and/or getting surgery and/or epidural steroid injection.
+59,ARTHROTEC.13.txt.0,"NSAID gastritis, severe stomach upset after prolonged use."
+60,ARTHROTEC.13.txt.1,"false full feeling, very poor appetite."
+61,ARTHROTEC.13.txt.2,"increased menstruation, 2-3 periods a month instead of once a month, menstrual cramps present with or without vaginal bleeding."
+62,ARTHROTEC.13.txt.3,i would not recommend this medication for any female who has not already completed their menopausal phase.
+63,ARTHROTEC.14.txt.0,"Initially, I experienced a slight, but noticeable difference in pain level: the pain was less severe."
+64,ARTHROTEC.14.txt.1,"Within a few days, I noticed acid reflux shortly after taking, and it got progressively worse."
+65,ARTHROTEC.14.txt.2,"It got to the point that I was apprehensive about going to bed; I consistently found myself waking up with acidic bile in my mouth, tasting like I had thrown up."
+66,ARTHROTEC.15.txt.0,Particularly diahrea!
+67,ARTHROTEC.15.txt.1,Many unscheduled washroom stops over the time I've taken this medication.
+68,ARTHROTEC.15.txt.2,Lately ankle swelling and lower tendon pain that was not experienced previously.
+69,ARTHROTEC.15.txt.3,Males tend to tolerate this medication better than women from my observation.
+70,ARTHROTEC.15.txt.4,This medication helped get me back to work and achieve tolerable pain levels and mobility.
+71,ARTHROTEC.15.txt.5,I stopped taking it for 4 days and the pain returned.
+72,ARTHROTEC.15.txt.6,Currently take one 75mg dose 2 hours before work and seems to be enough to ease my particular condition.
+73,ARTHROTEC.15.txt.7,Probably alright for otherwise healthy individuals but those with other medical problems should probably avoid it.
+74,ARTHROTEC.15.txt.8,It will most likely exacerbate there ill health with unwelcome side effects.
+75,ARTHROTEC.16.txt.0,"I was prescribed this drug because I had spent a whole night in complete agony; abdominal pain, lower back pain, all that I imagine labor pain to be, except I was not in labor."
+76,ARTHROTEC.16.txt.1,"Though the cause of my pain remains undetermined, the Arthrotec combined with Paracetamol pretty much eliminated the pain."
+77,ARTHROTEC.16.txt.2,"This was a big relief, as the 1200 MG of Ibuprofen I had taken throughout the night had done nothing."
+78,ARTHROTEC.16.txt.3,I only took 1 Arthrotec and 1 Paracetamol and that did the trick.
+79,ARTHROTEC.16.txt.4,HOWEVER: I had a very bad headache yesterday and Ibuprofen again didn't work.
+80,ARTHROTEC.16.txt.5,"I still had the other Arthrotec pills left, so I took one."
+81,ARTHROTEC.16.txt.6,"Although it alleviated the pain, I got up this morning with heavy vaginal bleeding even though my period ended last week."
+82,ARTHROTEC.16.txt.7,"I was relieved to read that this could be a side effect, as it means I probably don't have something serious, but I will have to be in some serious pain to risk bleeding from the vagina again."
+83,ARTHROTEC.16.txt.8,Next time I'll try my luck with Paracetamol.
+84,ARTHROTEC.16.txt.9,The pill I took consisted of 50 MG Diclofenac and 200 MG Misoprostol.
+85,ARTHROTEC.17.txt.0,"just took the drug about 30 minutes ago and am now experiencing the worst abdominal pain ever, like mentstrual cramps/diarreah cramping combined."
+86,ARTHROTEC.17.txt.1,i had to keep dropping into a crouched position due to the severity of the lower abdominal pain.
+87,ARTHROTEC.17.txt.2,i was put on this medication because i was taking such high doses of Advil to quell the inflammation in my neck and back muscles that it caused me to have a GI bleed.
+88,ARTHROTEC.17.txt.3,"but after this little episode, and after reading that it can cause heavy menstrual bleeding, i highly doubt this drug is the best fit for my problem!!"
+89,ARTHROTEC.17.txt.4,i already have anemia due to the gastric bleed.
+90,ARTHROTEC.17.txt.5,how could my doctor not think of this?
+91,ARTHROTEC.17.txt.6,"i'm also starting to feel dizzy and light headed, and can feel acidic bile at the back of my throat."
+92,ARTHROTEC.17.txt.7,great!!
+93,ARTHROTEC.17.txt.8,:|.
+94,ARTHROTEC.18.txt.0,slightly heavier menstrual cycle.
+95,ARTHROTEC.18.txt.1,An absolute miracle drug for me.
+96,ARTHROTEC.18.txt.2,None of the stomach issues others seem to have.
+97,ARTHROTEC.18.txt.3,I was at the point where I was becoming highly immobile and in constant pain.
+98,ARTHROTEC.18.txt.4,Started taking arthrotec and had IMMEDIATE relief.
+99,ARTHROTEC.18.txt.5,honestly never thought I would feel that way again.
+100,ARTHROTEC.18.txt.6,"recently pain has started to increase though, and not sure if I've overworked my back."
+101,ARTHROTEC.18.txt.7,or if I'm becoming intolerant.
+102,ARTHROTEC.18.txt.8,Have recommended to two others who have had similar exceptional results for chronic arthritic type issues.
+103,ARTHROTEC.19.txt.0,1 month PRN.
+104,ARTHROTEC.19.txt.1,Horrible lower pelvic pain.
+105,ARTHROTEC.19.txt.2,Uterus contractions.
+106,ARTHROTEC.19.txt.3,Bloody vagina the next day.
+107,ARTHROTEC.19.txt.4,Horrible gastric pain.
+108,ARTHROTEC.19.txt.5,I am looking for another drug to replace this one.
+109,ARTHROTEC.19.txt.6,I went to the OB GYN thinking there was something wrong with my uterus but I am completely ok.
+110,ARTHROTEC.19.txt.7,I am not taking it again.
+111,ARTHROTEC.20.txt.0,I was experiencing lower back pain & noticed my spouse had some arthrotec 50mg anti inflammatory pills left.
+112,ARTHROTEC.20.txt.1,So i read about it online then decided to take one.
+113,ARTHROTEC.20.txt.2,Then about 20mins later i had MAJOR menstrual cramps & started bleeding.
+114,ARTHROTEC.20.txt.3,i had rlly bad sickness & ended up puking.
+115,ARTHROTEC.20.txt.4,.
+116,ARTHROTEC.20.txt.5,"thank god i got the pill out my system, the pain stopped 10mins later but i am still menstrating."
+117,ARTHROTEC.20.txt.6,This drug cant be good for you if it brought my period on when ive only just finished my last cycle 10 dyas prior to taking the drug!
+118,ARTHROTEC.20.txt.7,I would not reccomend taking this drug if it hasnt been suggested by your physician.
+119,ARTHROTEC.20.txt.8,I wont be making that mistake again!.
+120,ARTHROTEC.21.txt.0,"Didn't have much pain relief, and within a few days of starting the meds I began having cramps and heavy vaginal bleeding."
+121,ARTHROTEC.21.txt.1,My period ended last week and this med made me have another one!.
+122,ARTHROTEC.22.txt.0,"Severe abdominal cramping, sweating, period cramps, vaginal bleeding, diarrhea, acid reflux, dry mouth."
+123,ARTHROTEC.22.txt.1,I would rather have had a migraine than the pain I suffered after taking one of these pills.
+124,ARTHROTEC.22.txt.2,Don't recommend at all.
+125,ARTHROTEC.23.txt.0,Within half hour of taking this drug I suffered from excessive cramping.
+126,ARTHROTEC.23.txt.1,lasted 1/2 hour and continued sporatically over course of several hours.
+127,ARTHROTEC.23.txt.2,"Became tired,fatigue,shortness of breath from pain, dizzy,nausea, unconsolable."
+128,ARTHROTEC.23.txt.3,"went hospital, but sat 5 hours never seen by doctor."
+129,ARTHROTEC.23.txt.4,drug wore off on its own and went home to rest.
+130,ARTHROTEC.23.txt.5,Threw away the remaining pills.
+131,ARTHROTEC.23.txt.6,Should be removed from market.
+132,ARTHROTEC.24.txt.0,"I have taken 6 pills in the past (75mg each), but the side effect I had from my last pill was awful."
+133,ARTHROTEC.24.txt.1,It induced severe vaginal cramps without bleeding about 2 hours after I took the medication.
+134,ARTHROTEC.24.txt.2,I ended up having to take additional medication to get rid of the cramps (pamprin) so that I could sleep.
+135,ARTHROTEC.24.txt.3,Sat on the bathroom for 30 minutes.
+136,ARTHROTEC.24.txt.4,If I knew I would have went to bed with a sore knee instead - it hurt less than the cramps.
+137,ARTHROTEC.24.txt.5,This is the only anti-inflammatory drug that helps for my knee pain/inflammation and its reliable in that.
+138,ARTHROTEC.24.txt.6,"I take it infrequently, once every several months and 1 pill is often enough for me."
+139,ARTHROTEC.25.txt.0,"nausea,extreme hunger,stomach pain, abdominal pain, vaginal bleeding,cramps."
+140,ARTHROTEC.25.txt.1,I really think that my doctor hates me.
+141,ARTHROTEC.25.txt.2,otherwise why would he give me this poison????
+142,ARTHROTEC.25.txt.3,after 4 days of suffering I'm stopping this nightmare and yes there was some improvement with the pain but is not worth to continue.
+143,ARTHROTEC.26.txt.0,"After taking the drug for 7 years, i've suddenly developped diarrhea, nausea, loss of apetite, stomach cramps."
+144,ARTHROTEC.26.txt.1,I've had these symptoms for 4 weeks and i've just realised it could be side effects from arthotec.
+145,ARTHROTEC.26.txt.2,The problem is if i stop arthrotec I become paralysed by back pain.
+146,ARTHROTEC.26.txt.3,Seeing the doctor next week.
+147,ARTHROTEC.26.txt.4,But not sure if my symptoms are due to the drug as i've been on it for so long with no side effects.
+148,ARTHROTEC.26.txt.5,"After trying several NSAIDs with side effects, I finally discovered arthrotec which relieved the pain and no side effects."
+149,ARTHROTEC.26.txt.6,I usually take 1 or 2 a day and when the pain gets really bad increase it to 3 a day for one or two weeks.
+150,ARTHROTEC.27.txt.0,"One hour after taking Arthrotec, I experienced the sudden onset of severe mentrual cramps."
+151,ARTHROTEC.27.txt.1,I am on the birth control pill and should not have my period for another 3 weeks.
+152,ARTHROTEC.27.txt.2,"I am in so much pain that I cannot sleep, nor can I take Advil for the pain as it is also an NSAID."
+153,ARTHROTEC.27.txt.3,The patient warning indicates that this drug can cause an abortion.
+154,ARTHROTEC.27.txt.4,I wish I'd read my entire monograph before taking the tablet.
+155,ARTHROTEC.27.txt.5,I would not recommend for women prior to menopause.
+156,ARTHROTEC.27.txt.6,Nor sure why my doctor thought it would help my endo pain.
+157,ARTHROTEC.28.txt.0,Anxiety and the feeling I was bleeding inside.
+158,ARTHROTEC.28.txt.1,Sudden feelings of cramp like being punched in the stomach.
+159,ARTHROTEC.28.txt.2,A general 'scared' feeling and sitting very still in the hope it would go away.
+160,ARTHROTEC.28.txt.3,I will tolerate the pain before I would ever take this again.
+161,ARTHROTEC.29.txt.0,vaginal bleeding and cramping 2 years after menopause.
+162,ARTHROTEC.29.txt.1,"While this helped some with the joint pain, I was unpleasantly surprised at the return of my period after 2 years."
+163,ARTHROTEC.29.txt.2,"I had severe endometriosis and adenomyosis all my life, plus the impairment in blood clotting due to EDS, so my doctor probably should not have prescribed this drug."
+164,ARTHROTEC.29.txt.3,I'm not taking any more tablets.
+165,ARTHROTEC.29.txt.4,Cymbalta 120 mg per day helps enough with the pain.
+166,ARTHROTEC.30.txt.0,I have been on Arthrotec for a year and a half and have been very pleased that it does help deal with my back pain.
+167,ARTHROTEC.30.txt.1,However.
+168,ARTHROTEC.30.txt.2,"over the last six months, I have started having vaginal bleeding almost every day of the month."
+169,ARTHROTEC.30.txt.3,"Lots of clotting, and horrible periods."
+170,ARTHROTEC.30.txt.4,I went to the obgyn and everything came out normal.
+171,ARTHROTEC.30.txt.5,The doc put me on birth control.
+172,ARTHROTEC.30.txt.6,"But, the bleeding has not subsided."
+173,ARTHROTEC.30.txt.7,So now I am scheduled to have an endometrial biopsy on Wed.
+174,ARTHROTEC.30.txt.8,I had an ephiphany last night about Arthrotec and began researching the side effect.
+175,ARTHROTEC.30.txt.9,"When I came across this website, I was appalled that the majority of the females mention heavy/extra vaginal bleeding."
+176,ARTHROTEC.30.txt.10,"I firmly believe this is the answer to my bleeding problem and will be telling the doctor on Monday,."
+177,ARTHROTEC.30.txt.11,"Although this drug has helped with the pain, it is not worth the cost and hassle of bleeding constantly.,"
+178,ARTHROTEC.30.txt.12,"On top of that, I am now having to have a procedure that a 31 year old should not have to endure."
+179,ARTHROTEC.30.txt.13,I truly hope that there are no long term effects from this.
+180,ARTHROTEC.30.txt.14,"I have not taken Arthrotec in almost a week, yet I am still bleeding."
+181,ARTHROTEC.30.txt.15,"I do not look forward to the extra pains I will llkely experience in a couple weeks, but I am sure I can find something else to deal with them."
+182,ARTHROTEC.30.txt.16,I feel that I have become dependent on this medicine to function.
+183,ARTHROTEC.31.txt.0,"headaches, extreme tiredness, worse heartburn in back of throat, hunger pangs, dry mouth, severe lower abdominal pain/cramping, very irritable."
+184,ARTHROTEC.31.txt.1,Helped with pain BUT side effects outweigh benefits.
+185,ARTHROTEC.31.txt.2,"No periods for 10 years, but felt like the worst PMS symptoms ever."
+186,ARTHROTEC.31.txt.3,This drug should not be taken by women unless misoprostol removed.
+187,ARTHROTEC.31.txt.4,"As well, GERD much worse."
+188,ARTHROTEC.31.txt.5,Stopped taking & contacted doctor.
+189,ARTHROTEC.32.txt.0,"the first pill i took it caused severe abdominal pain but after taking the first one it never did that again , but recently i've been feeling like my stomach is full and empty at the same time hard to explain but thats what it felt like , and also have been getting bruises allover my body due to this drug , other than that my back is back to normal now and i am back at work."
+190,ARTHROTEC.33.txt.0,just starting to feel tired this week after 3 weeks on the medication and that is the only bad side effect.
+191,ARTHROTEC.33.txt.1,I think I will try once a day.
+192,ARTHROTEC.33.txt.2,I could not walk or open my hands in the morning until I took this.
+193,ARTHROTEC.33.txt.3,"I had a hysterectomy over 10 years ago, so it does not affect my period."
+194,ARTHROTEC.34.txt.0,"Bleeding mini periods, lightheaded some time, finger tingling when I wake up."
+195,ARTHROTEC.35.txt.0,"While this medicine did help with my pain, the side affects out-weigh the benefits."
+196,ARTHROTEC.35.txt.1,"My menstrual cycle is completely out of whack, I'm bleeding several times a month."
+197,ARTHROTEC.35.txt.2,Nausea occurs when I'm hungry - very odd.
+198,ARTHROTEC.35.txt.3,Irregular cramping.
+199,ARTHROTEC.35.txt.4,"This has been to date the only medicine to relieve my hip pain, but it's affecting my quality of life."
+200,ARTHROTEC.35.txt.5,Who wants to have their period all month long and be non-stop nauseous?!
+201,ARTHROTEC.35.txt.6,"If they ever fix the kinks I'll be the first in line, but at this point I don't consider this a safe medication."
+202,ARTHROTEC.36.txt.0,Took my 1st pill 5 hours ago & almost immediately experienced sever abdominal cramps.
+203,ARTHROTEC.36.txt.1,Much like period cramps.
+204,ARTHROTEC.36.txt.2,Just took 2 Advil to try & combat the cramping pain!
+205,ARTHROTEC.36.txt.3,Also; some diarrhea.
+206,ARTHROTEC.36.txt.4,Will not take any more of these!.
+207,ARTHROTEC.37.txt.0,"I took my first pill this morning, with food as noted."
+208,ARTHROTEC.37.txt.1,Rode my bike 12 minutes to work & didn't think I could make it.
+209,ARTHROTEC.37.txt.2,"Got to work, ran to the bathroom with SEVERE abdominal cramping, had massive diarrhea & severe cramping continued for 2 hours."
+210,ARTHROTEC.37.txt.3,I had to leave work & go home sick.
+211,ARTHROTEC.37.txt.4,I would much rather put up with my debilitating chronic knee pain (waiting for surgery) than to ever take another pill.
+212,ARTHROTEC.37.txt.5,I spent $100 on the stupid pills - what an utter & complete waste of money.
+213,ARTHROTEC.38.txt.0,"Upset stomach, nausea, vomiting, abdominal pain, constipation to loose bowels, excessive hot flashes and night sweats, blurred vision, irritability, chest discomfort."
+214,ARTHROTEC.38.txt.1,"Took with food , did not help."
+215,ARTHROTEC.38.txt.2,Took for 7 and 1/2 days.
+216,ARTHROTEC.38.txt.3,could not take another dose.
+217,ARTHROTEC.38.txt.4,Very bad drug.
+218,ARTHROTEC.38.txt.5,Would rather have the elbow pain!.
+219,ARTHROTEC.39.txt.0,none but it wears off after 15 days.
+220,ARTHROTEC.39.txt.1,"Natural cures are better; apple cidar vinegar can effectively cure arthritis and headaches; vitamin C crystals can help pain at high doses; the Gerson diet with no salt can cure migrains, Fibro etc see doctoryourself.com and 'just say no to drugs' (Nancy Reagan)."
+221,ARTHROTEC.40.txt.0,"I have been concerned about long term effects of Arthrotec, but with chronic back for 9 years I cannot live without it right now."
+222,ARTHROTEC.40.txt.1,I was shocked to read some of the comments on this website.
+223,ARTHROTEC.40.txt.2,"I never had any stomach trouble, or cramps, or anything people have mentioned here."
+224,ARTHROTEC.40.txt.3,People mentioned Celebrex.
+225,ARTHROTEC.40.txt.4,A friend of mine developed an ulcer after only a short time on Celebrex.
+226,ARTHROTEC.40.txt.5,I do not have any kind of stomach trouble after 8 years.
+227,ARTHROTEC.40.txt.6,Would I rather not take it?
+228,ARTHROTEC.40.txt.7,"Of course, but I have to be able to get out of the bed in the morning."
+229,ARTHROTEC.40.txt.8,"I have blood work done every year to see if there's any kidney, liver damage or anything, and so far there hasn't been any."
+230,ARTHROTEC.40.txt.9,I would recommend it.
+231,ARTHROTEC.41.txt.0,"Dizziness, sickness, stomach gas, feel like a bubble of air is stuck in my chest."
+232,ARTHROTEC.41.txt.1,"Hadn't realised it was related until I read this but I get the hunger pangs too, I'm assuming this is the acids and gas in your stomach constantly churning over that make you feel like you're hungry."
+233,ARTHROTEC.41.txt.2,I've taken co-codamol for my fibromyalgia for many years which I have very few side effects with.
+234,ARTHROTEC.41.txt.3,I've recently had this severe hip pain on both sides which the co codamol wasn't touching so I went back to the Dr He recommended this anti-inflamatory and as he said next stop would be cortozone injections I was willing to give it a try.
+235,ARTHROTEC.41.txt.4,I've tried it for a week but it makes me feel dreadful.
+236,ARTHROTEC.41.txt.5,"Every time I stand up I have to hold onto something for fear of falling over, I feel sick and light headed and I get those waves of nausea where you suddenly feel all clammy."
+237,ARTHROTEC.41.txt.6,"It's very much like having a permanent hangover, even down to the hunger which until I read thsi site I hadn't connected to the rest of it."
+238,ARTHROTEC.41.txt.7,I've felt no discernible difference in the pain in my hips and the side effects simply aren't worth it so thats it for me and this drug.
+239,ARTHROTEC.42.txt.0,"Stomach pains, chest pains, anxiety, fatigue, headache, erratic heart beat, raised blood pressure, dizziness, nausea (even when taken with food), blurred vision."
+240,ARTHROTEC.42.txt.1,I was given a 6 day trial of Arthrotec along with a 9 day trial of Aciphex on 4/25 (three bottles of three pills).
+241,ARTHROTEC.42.txt.2,This was a solution my doctor came up with.
+242,ARTHROTEC.42.txt.3,"I've never had consistant heart burn or indigestion, no signs of acid reflux, so I was confused as to why he would offer me this medication."
+243,ARTHROTEC.42.txt.4,"The first day I took both pills, I experienced some dizziness and some nausea and some serious period like cramps."
+244,ARTHROTEC.42.txt.5,"I was at work, so I just had to brush it off."
+245,ARTHROTEC.42.txt.6,It continued each time I took it.
+246,ARTHROTEC.42.txt.7,"After about two days (two doses), the cramps continued and began inhibiting my menstrual cycle (which I was due to start)."
+247,ARTHROTEC.42.txt.8,"So, I googled the side effects of the drug, came across this site, and realized I wasn't the only one with those side effects, so I felt a little better about it."
+248,ARTHROTEC.42.txt.9,"On the evening of 4/30, I suddenly got some serious chest pains, an elevated heart rate (I was laying down with my husband and this was similar to an ""I just finished running!"" heart rate), hot flashes, dizziness, sever stomach cramps, and weakness in my legs."
+249,ARTHROTEC.42.txt.10,I literally thought I was dying.
+250,ARTHROTEC.42.txt.11,It passed within 45 minutes and I was able to go to work the next day.
+251,ARTHROTEC.42.txt.12,"At work (5/1), I was sitting at my desk and the same thing happened."
+252,ARTHROTEC.42.txt.13,I stepped out to get some air but it didn't work.
+253,ARTHROTEC.42.txt.14,A friend at work had to call an ambulance.
+254,ARTHROTEC.42.txt.15,I was filled in by the ER doc that the mixture of Aciphex and Arthrotec was insane and that he was trying to keep from cracking up at my primary doc's decision to combine them.
+255,ARTHROTEC.43.txt.0,"Random severe cramping, diarrhea, increased menstrual blood flow."
+256,ARTHROTEC.43.txt.1,"The day I took my first Arthrotec, I started experiencing urinary incontinence."
+257,ARTHROTEC.43.txt.2,It's not severe but enough to be disruptive and require a pad.
+258,ARTHROTEC.43.txt.3,I haven't seen this listed in anyone's symptomology.
+259,ARTHROTEC.43.txt.4,Has anyone else had this experience?.
+260,ARTHROTEC.44.txt.0,"This medicine helped with the heel spurs, however the side effects were far worse and not worth taking the medicine."
+261,ARTHROTEC.44.txt.1,I had bad gas and SEVERE diarrhea along with stomach cramps and nausea.
+262,ARTHROTEC.45.txt.0,"Has been all OK until recently when I started to get "" fluey"" feelings in upper arms, legs etc"
+263,ARTHROTEC.45.txt.1,As I had just recently had flu jab thought this was the cause.
+264,ARTHROTEC.45.txt.2,"However the symptoms persisted, GP said "" just flu jab"" - but after 4 weeks!"
+265,ARTHROTEC.45.txt.3,"Noticed today after leaving Artrotec off for a day or so ,that things were much better until I took one dose."
+266,ARTHROTEC.45.txt.4,fluey feelings returned within a hour.
+267,ARTHROTEC.45.txt.5,Draw your own conclusions.
+268,ARTHROTEC.46.txt.0,"Naseua, vomiting, cramps, dry eyes, loss of appetite."
+269,ARTHROTEC.47.txt.0,"after taking just one dose, had hunger feeling and stomach cramping, in the eve and through the night constant muscle cramps in my calf muscles, couldn't sleep, had to keep jumping out of bed because of the cramps."
+270,ARTHROTEC.47.txt.1,"I just went for test and haven't gotten results yet, but Dr feels I have more than 1 form of arthritis, I also have a very sensitive stomach, this is cheaper and more approved by health insurance, so that is why this prescribed."
+271,ARTHROTEC.47.txt.2,"Seems to me we always have to choose lesser of the 2 evils, I can't deal with Charlie Horses, so I am stopping this med."
+272,ARTHROTEC.48.txt.0,I cannot believe the immediate difference this medication had made in my life.
+273,ARTHROTEC.48.txt.1,I could not get up from my desk without holding onto the desk and walking up the stairs was intolerable.
+274,ARTHROTEC.48.txt.2,Within one day I felt the pain lessen.
+275,ARTHROTEC.48.txt.3,I am now walking up the stairs 95 % normal and can actually walk through a mall without having to sit down every 5 minutes.
+276,ARTHROTEC.48.txt.4,"i am in need of a knee replacement, but in meantime feel like I have my life back."
+277,ARTHROTEC.49.txt.0,Took one pill and 20 minutes later had intense pelvic and back pain.
+278,ARTHROTEC.49.txt.1,Felt like a miscarriage (I've had 3 of them).
+279,ARTHROTEC.49.txt.2,"This intense, horrid pain lasted 1.5 hours."
+280,ARTHROTEC.49.txt.3,Then I had spotting.
+281,ARTHROTEC.49.txt.4,And terrible bloating and nausea.
+282,ARTHROTEC.50.txt.0,no side effects.
+283,ARTHROTEC.50.txt.1,Met with surgon last week to schedule hip replacement.
+284,ARTHROTEC.50.txt.2,Could not tolerate pain.
+285,ARTHROTEC.50.txt.3,Was on hydrocodine heavy aand did not like side effects.
+286,ARTHROTEC.50.txt.4,Almost overnight was 100% pain free.
+287,ARTHROTEC.50.txt.5,Sorry ladies i don not have bleeding or stomach pains.
+288,ARTHROTEC.50.txt.6,Truly wish you could have same results as i have.
+289,ARTHROTEC.50.txt.7,Took 5 years ago for shoulder pain and it worked as well.
+290,ARTHROTEC.50.txt.8,I am on my feet all day requiring steps and was ready to retire.
+291,ARTHROTEC.50.txt.9,I danced at a wedding this weekend for the first time in 3 years.
+292,ARTHROTEC.51.txt.0,severe nausea dizziness terrible stomach pain.
+293,ARTHROTEC.52.txt.0,Went to hospital for my Tmj pain because it was getting out of control.
+294,ARTHROTEC.52.txt.1,A doctor prescribed me this to take two a day.
+295,ARTHROTEC.52.txt.2,One pill and 20 minutes later the worse period cramps in my life.
+296,ARTHROTEC.52.txt.3,"After half an hour it passed, but its been a day a half now, and i still feel sick after eating and random shooting lower abdominal pains."
+297,ARTHROTEC.52.txt.4,I'm scared to death.
+298,ARTHROTEC.53.txt.0,"From day one of taking this pill I have experienced a significant reduction of pain in both areas and no stiffness in my hands, where before had very little mobility in my right hand, I have however experienced extreme pain/heavy bleeding and dizziness during my period which is not normal for me."
+299,ARTHROTEC.54.txt.0,I have not experienced any of the side effects.
+300,ARTHROTEC.54.txt.1,Arthrotec helps me get through the day.
+301,ARTHROTEC.55.txt.0,"I have nothing yet just took it my first time, but I am also on occupycet 5/325Nguyen"
+302,ARTHROTEC.55.txt.1,I have bad back and knew pain
+303,ARTHROTEC.55.txt.2,has anyone been onthe same pills
+304,ARTHROTEC.55.txt.3,just felling really tied now clicking in this new pill.
+305,ARTHROTEC.56.txt.0,Took away all my hip pain.
+306,ARTHROTEC.56.txt.1,Had very bad cramps diarrhea and heavy bleeding even thought my period wasn't due for 3 more weeks
+307,ARTHROTEC.56.txt.2,been off this pill for two days now and still feeling same
+308,ARTHROTEC.56.txt.3,hoping cramps stop soon can't stand feeling sick all day.
+309,ARTHROTEC.57.txt.0,I have spotting and it had started 2 days after I was taking them
+310,ARTHROTEC.57.txt.1,"I had stopped taking them for 3 weeks now and still have spotting problems, I talked to doctors and they just shrugged it off."
+311,ARTHROTEC.57.txt.2,"And then told me go home, I still want to have more children I am at my wits end!!!."
+312,ARTHROTEC.58.txt.0,"Disorentatation,trouble brathing, extreme hot, redness and swelling, itching, later abominal cramps."
+313,ARTHROTEC.58.txt.1,All this came all sudden in couple of minutes.
+314,ARTHROTEC.58.txt.2,I had been taking arthrotec before for my knee pain and it helped me a lot.
+315,ARTHROTEC.58.txt.3,I only had 10-12 pills left from last March when I had a cortisone shot and my knee pain went away.
+316,ARTHROTEC.59.txt.0,"I have vaginal bleeding, my cycle was back (I'm menopausal ), breast pain"
+317,ARTHROTEC.59.txt.1,"Other symptoms I have: erithema, my skin is so dry I have little cuts on my hands, I 'm sweating a lot (usually I don't), pruritus ani etc"
+318,ARTHROTEC.59.txt.2,"I took it 3 times: the first for 3 days, then I stopped because it didn't make great improvements and I had diarrhea."
+319,ARTHROTEC.59.txt.3,My doctor told me the symptoms had to go away after taking few more Second time: I took other 3 pills in 3 days.
+320,ARTHROTEC.59.txt.4,little improvement with the pain.
+321,ARTHROTEC.59.txt.5,"I had the first vaginal bleeding, a lot of pruritus and my skin was all red but I didn't know it was arthrotec/"
+322,ARTHROTEC.59.txt.6,"My doctor prescribed me a topical cream , did some a vaginal test to exclude infections."
+323,ARTHROTEC.59.txt.7,I had my cycle The last one for 4 days.
+324,ARTHROTEC.59.txt.8,More problems and this time I had the ideo to go on Internet and I discovered I had a lot of the side effects by taking Arthrotec
+325,ARTHROTEC.59.txt.9,Why they don't tell you about them?.
+326,ARTHROTEC.60.txt.0,"Took 1 pill with dinner, woke during the night with stomach pain."
+327,ARTHROTEC.60.txt.1,In the morning I discovered that I had bled heavily during the night.
+328,ARTHROTEC.60.txt.2,Bleeding continued the next day with clotting.
+329,ARTHROTEC.60.txt.3,Also developed a rash on my wrist.
+330,ARTHROTEC.60.txt.4,Discontinued use after one pill!!.
+331,ARTHROTEC.60.txt.5,"After checking the web site and seeing the list of side effects for this medication, it is hard to believe that it was ever approved."
+332,ARTHROTEC.60.txt.6,I do not recommend this medication for anyone.
+333,ARTHROTEC.60.txt.7,I have never had a reaction to any medication before.
+334,ARTHROTEC.60.txt.8,The complications of this drug outweight the benefits.
+335,ARTHROTEC.61.txt.0,"Very little side effects,some gas."
+336,ARTHROTEC.61.txt.1,Gave me my life back.
+337,ARTHROTEC.61.txt.2,Now I can sleep at night and do most activities.
+338,ARTHROTEC.61.txt.3,Mobility without pain!.
+339,ARTHROTEC.61.txt.4,Worry about the long term side effects of an NSAid drug.
+340,ARTHROTEC.62.txt.0,none with light stomich ake sometimes.
+341,ARTHROTEC.62.txt.1,a little shortness of breath at times.
+342,ARTHROTEC.62.txt.2,this product changed the way i have lived for 5 years.
+343,ARTHROTEC.62.txt.3,i had a back operation 20 years ago and my time of mobility was going from bad to worse.
+344,ARTHROTEC.62.txt.4,absolutly changed my life.
+345,ARTHROTEC.62.txt.5,i can go all day.
+346,ARTHROTEC.62.txt.6,there is one thing that i need to look into.
+347,ARTHROTEC.62.txt.7,my mother in law has rematoid arthro.
+348,ARTHROTEC.62.txt.8,she walked into the emergancy room and is hooked up to a machine to keep her alive for now .
+349,ARTHROTEC.62.txt.9,one week.
+350,ARTHROTEC.62.txt.10,she had an alergic reaction to the medicine she had been taken for her arthritice.
+351,ARTHROTEC.62.txt.11,she had been taken it for two years.
+352,ARTHROTEC.62.txt.12,and i do not know what to do.
+353,ARTHROTEC.62.txt.13,she has an infection in her lungs and lost all capassity.
+354,ARTHROTEC.62.txt.14,"but the only thing i know is that it was not arthrotec,but can it all be the same?."
+355,ARTHROTEC.63.txt.0,"I have vaginal bleeding, my cycle was back (I'm menopausal ), breast pain, Other symptoms I have: erithema, my skin is so dry I have little cuts on my hands, I 'm sweating a lot (usually I don't), pruritus ani etc"
+356,ARTHROTEC.63.txt.1,"I took it 3 times: the first for 3 days, then I stopped because it didn't make great improvements and I had diarrhea."
+357,ARTHROTEC.63.txt.2,My doctor told me the symptoms had to go away after taking few more Second time: I took other 3 pills in 3 days.
+358,ARTHROTEC.63.txt.3,little improvement with the pain.
+359,ARTHROTEC.63.txt.4,"I had the first vaginal bleeding, a lot of pruritus and my skin was all red but I didn't know it was arthrotec/"
+360,ARTHROTEC.63.txt.5,"My doctor prescribed me a topical cream , did some a vaginal test to exclude infections."
+361,ARTHROTEC.63.txt.6,I had my cycle The last one for 4 days.
+362,ARTHROTEC.63.txt.7,More problems and this time I had the ideo to go on Internet and I discovered I had a lot of the side effects by taking Arthrotec Why they don't tell you about them?.
+363,ARTHROTEC.64.txt.0,"i have experienced extreme stomach pain when taken on an empty stomach, and moderate stomach pain when taken with food."
+364,ARTHROTEC.64.txt.1,i also had some drowsiness after taking arthrotec.
+365,ARTHROTEC.64.txt.2,"arthrotec works very well for my knee pain, more so than mobic or celebrex."
+366,ARTHROTEC.64.txt.3,"however, i do experience stomach pain from time to time."
+367,ARTHROTEC.65.txt.0,"Severe, gut-renching abdominal pain, jaundins, diahrea, sweats & hot flashes, vaginal bleeding, and now constipation."
+368,ARTHROTEC.65.txt.1,I had to go to the emergency room of local hospital and that's where I learned of the side effects.
+369,ARTHROTEC.65.txt.2,"From the info on the web about this medication, it should not be given to anyone."
+370,ARTHROTEC.65.txt.3,I can't believe it was approved at all.
+371,ARTHROTEC.66.txt.0,very minor--slight nausea when taken on empty stomach--which was gone in 15 minutes.
+372,ARTHROTEC.66.txt.1,gave me my life back.
+373,ARTHROTEC.66.txt.2,concerned about long term effects.
+374,ARTHROTEC.67.txt.0,W/ prescribed dosage (75 mg BID) crankiness and irritability.
+375,ARTHROTEC.67.txt.1,Increased BP.
+376,ARTHROTEC.67.txt.2,Possible visual disturbances.
+377,ARTHROTEC.67.txt.3,Relieved pain very well.
+378,ARTHROTEC.67.txt.4,"However, the side effects are a great concern."
+379,ARTHROTEC.68.txt.0,"For the first 8 days of ever taking it, the only side effect was a similar feeling you get when you have an empty stomach and light nausea that lasted for no more that 30 minutes"
+380,ARTHROTEC.68.txt.1,"After 8 days, the feeling elevated to an annoying sharp pain in my stomach."
+381,ARTHROTEC.68.txt.2,"Then two days later, I had to stop using it because the pain was becoming unbearable."
+382,ARTHROTEC.68.txt.3,Now I have been off for two days and I still have the stomach pain.
+383,ARTHROTEC.68.txt.4,"Aside from the stomach pain, it worked miracle on my nighttime spinal pain."
+384,ARTHROTEC.68.txt.5,Now I have to see my doctor again to see if I should keep taking it.
+385,ARTHROTEC.68.txt.6,I tried Naprosyn just before and had to stop taking it for the same reasons.
+386,ARTHROTEC.69.txt.0,Some gas & diarrhea but overall OK if taken with food.
+387,ARTHROTEC.69.txt.1,Tried other anti-inflammatories but this is the one that works best for me.
+388,ARTHROTEC.69.txt.2,Helps me walk & carry on a normal lifestyle because it eases the pain a lot.
+389,ARTHROTEC.70.txt.0,severe acid reflux after taking for 15 days.
+390,ARTHROTEC.70.txt.1,I am back on it now for 1 month after making adjustment to my diet.
+391,ARTHROTEC.70.txt.2,Helps very much.
+392,ARTHROTEC.70.txt.3,I would get about a 30 sec.
+393,ARTHROTEC.70.txt.4,headache but no longer.
+394,ARTHROTEC.70.txt.5,AS I have had a history of running to the toilet I dont do that any longer.
+395,ARTHROTEC.70.txt.6,Happy response.
+396,ARTHROTEC.70.txt.7,Since I cant take most of the other meds.
+397,ARTHROTEC.70.txt.8,I was hoping this one would do the job.
+398,ARTHROTEC.70.txt.9,It is helping more than I could have wished for.
+399,ARTHROTEC.70.txt.10,"If you email me, make sure you put the subject in or I wont answer."
+400,ARTHROTEC.71.txt.0,"Within 5 minutes of taking drug, developed severe colon and uterine cramping."
+401,ARTHROTEC.71.txt.1,"Cold sweat, fainting, heart palpitations."
+402,ARTHROTEC.71.txt.2,Will never use again or recommend.
+403,ARTHROTEC.72.txt.0,more frequent menstral periods (twice a month).
+404,ARTHROTEC.72.txt.1,Works but can realy tell how good it works when I had to go off of it.
+405,ARTHROTEC.73.txt.0,"I've been post-menopausal for five years and have now had a six day period with all the accompanying tender breasts, bloating, cramping etc"
+406,ARTHROTEC.73.txt.1,"I had only been taking on an ""as needed"" basis so one or two a day approx."
+407,ARTHROTEC.73.txt.2,every 3 to 4 weeks.
+408,ARTHROTEC.74.txt.0,"Slight Gasto discomfort, but usually take NEXIUM so discomfort is tolerable."
+409,ARTHROTEC.74.txt.1,"I take ARTHROTEC 50 every day, sometimes BID and have found nothing that works better."
+410,ARTHROTEC.74.txt.2,"Now I am running out, am un-insured and can't afford the medication."
+411,ARTHROTEC.74.txt.3,Will probably go back to IB 800 mg BID.
+412,ARTHROTEC.75.txt.0,"Vaginal bleeding when it was not time for my period, headaches, neck pain,bloating and weight gain."
+413,ARTHROTEC.75.txt.1,It helped relieve the pain in my lower back but I would not recommend this to be used by women of any age.
+414,ARTHROTEC.75.txt.2,Not quite sure what I will do now because I cannot take Bextra or Neurontin.
+415,ARTHROTEC.75.txt.3,I guess go back to plain old advil and deal with it unless the doctor has another medication I can try.
+416,ARTHROTEC.76.txt.0,"swelling, bloating, increased appetite, empty stomach feeling,dry,itchy skin."
+417,ARTHROTEC.76.txt.1,"Arthrotec works wonders, but side effects worry me."
+418,ARTHROTEC.76.txt.2,"Am trying to wean off it with glucoasamine/chondroitin and MSM, which are supposed to be good for arthritis, bone enhancement/elasticity etc"
+419,ARTHROTEC.76.txt.3,"Taking all at same time now,pain is too great!"
+420,ARTHROTEC.76.txt.4,Was on IB 1600 a day and 2 tylenol 8's a day.
+421,ARTHROTEC.76.txt.5,not enough.
+422,ARTHROTEC.77.txt.0,"Blurred vision, Stomach ache, Water retention, Throbbing headache."
+423,ARTHROTEC.77.txt.1,"Elevated my blood glucose levels because I am also on Vasotec, Glyburide, Avandia."
+424,ARTHROTEC.77.txt.2,Beware of this drug.
+425,ARTHROTEC.78.txt.0,"Very very severe abdonimal pain, next day my stool was black which could indicate blood in my stool, going to doctor today."
+426,ARTHROTEC.78.txt.1,I will never take it again.
+427,ARTHROTEC.79.txt.0,Nothing unusual or that Im aware of .
+428,ARTHROTEC.79.txt.1,"I have some acid reflux thats developed over the last few years, which may not be related since it runs in the family."
+429,ARTHROTEC.79.txt.2,Works great!
+430,ARTHROTEC.79.txt.3,"Hard to function without (pain),when I ran out."
+431,ARTHROTEC.79.txt.4,Im probably addicted to it.
+432,ARTHROTEC.79.txt.5,"Somewhat concerned about the long term effects and listed possible side effects, so I've only ever taken arthrotec 50 once daily rather than twice, which is just enough to manage my pain levels."
+433,ARTHROTEC.79.txt.6,I feel it has a cummulative effect.
+434,ARTHROTEC.79.txt.7,maybe.
+435,ARTHROTEC.79.txt.8,"I dont think anything will completely remove the pain, and maybe shouldnt since it helps you to know whats going on."
+436,ARTHROTEC.79.txt.9,"Else how much would you have to take, thus increasing your risk for possible adverse reactions."
+437,ARTHROTEC.80.txt.0,"abdominal pain, constant soreness in abdomen, headache, general stomach upset feeling that won't go away before or after eating."
+438,ARTHROTEC.80.txt.1,
+439,ARTHROTEC.80.txt.2,"I was taking Celebrex until ineffective, then Vioxx, then Lodine, and now Arthrotec."
+440,ARTHROTEC.80.txt.3,"I realize that a knee replacement is inevitable, and I need the medication, but the stomach pains are aggravating although bearable."
+441,ARTHROTEC.80.txt.4,
+442,ARTHROTEC.81.txt.0,frequent heartburn.
+443,ARTHROTEC.81.txt.1,take it once a day and it works very well on the pain.
+444,ARTHROTEC.82.txt.0,"I had diarrhea, severe abdominal pain which was constant for 4 hours straight, vomiting, trembling, dizziness, nausea."
+445,ARTHROTEC.82.txt.1,Arthrotec seemed to induce my menstrual cramps and cause the pain to be severe.
+446,ARTHROTEC.82.txt.2,"I would not recommend this drug to anyone, especially since I have never had such an adverse reaction to any other medication."
+447,ARTHROTEC.82.txt.3,"Also, I would caution women not to take this medication while menstruating, since one side effect can be severe menstual pain."
+448,ARTHROTEC.83.txt.0,"I developed severe abdominal pains, severe welts all over my legs from feet up to knees, swelling of throat, rapid heart beat and headaches."
+449,ARTHROTEC.84.txt.0,No side affects.
+450,ARTHROTEC.84.txt.1,This pill works like magic to releive my arthritic pain!
+451,ARTHROTEC.84.txt.2,"I don't take it regularly, only when required - approximately once per month."
+452,ARTHROTEC.85.txt.0,Horrible stuff.
+453,ARTHROTEC.85.txt.1,how did this ever pass scrutiny of the powers that be.
+454,ARTHROTEC.85.txt.2,Crazy side effects.
+455,ARTHROTEC.85.txt.3,Dizziness while rolling over while sleeping and faintness and disorientation upon sitting up in the morning.
+456,ARTHROTEC.85.txt.4,"Major stomach pain, massive gas cramps and bloating."
+457,ARTHROTEC.85.txt.5,Could not stop going to the bathroom with the runs.
+458,ARTHROTEC.85.txt.6,Thought I was having a heart attack or stroke coming on.
+459,ARTHROTEC.85.txt.7,Only took it for 5 days with only one a day in the morning with food.
+460,ARTHROTEC.85.txt.8,Could not figure out why I was so sick.
+461,ARTHROTEC.85.txt.9,Thanks to this site.
+462,ARTHROTEC.85.txt.10,Stopping it pronto!
+463,ARTHROTEC.85.txt.11,Needs to be banned.
+464,ARTHROTEC.85.txt.12,Warnings should be discussed with pharmacist face to face when this is prescribed and before taking it.
+465,ARTHROTEC.85.txt.13,Should be scrutinized from the first pill.
+466,ARTHROTEC.86.txt.0,"This medicine completely relieves my thumb pain, and really helps with my back pain."
+467,ARTHROTEC.86.txt.1,"BUT, it makes my stomach hurt soooo bad that I'm not sure what is worse."
+468,ARTHROTEC.86.txt.2,I only use it when my thumbs hurt so bad I want to cry.
+469,ARTHROTEC.86.txt.3,Then I put up with the stomach pain.
+470,ARTHROTEC.86.txt.4,It also give you diarrhea but I can handle that.
+471,ARTHROTEC.87.txt.0,"Abdominal cramps, flatulence, gas, bloating."
+472,ARTHROTEC.87.txt.1,"Cramps would start within 15 minutes of taking pill, even during meals."
+473,ARTHROTEC.87.txt.2,Reduced coccyx pain but the cramps and bloating were very uncomfortable.
+474,ARTHROTEC.88.txt.0,"My urine is bloody, I have got canker sores the size of golf balls, my face is falling off."
+475,ARTHROTEC.88.txt.1,It hurts.
+476,ARTHROTEC.88.txt.2,My arm feels better.
+477,ARTHROTEC.88.txt.3,But my face.
+478,ARTHROTEC.88.txt.4,its falling off.
+479,ARTHROTEC.89.txt.0,"The day after I started taking it, I had a little vaginal bleeding in spite of being menopausal for 10 years."
+480,ARTHROTEC.89.txt.1,I had been using Estrace for several months but had not had bleeding from the Estrace alone.
+481,ARTHROTEC.89.txt.2,"My back does feel better, not 100% OK, but probably 60%."
+482,ARTHROTEC.90.txt.0,"The pill eliminated all pain I felt in my hip, but it was hard on my stomach."
+483,ARTHROTEC.90.txt.1,"On my 10th day of medication, I experienced vaginal bleeding."
+484,ARTHROTEC.90.txt.2,This scared me because it was two weeks after my normal period.
+485,ARTHROTEC.90.txt.3,There is something really fishy about this drug.
+486,ARTHROTEC.90.txt.4,I do not advise anyone to take it as there are many adverse side effects.
+487,ARTHROTEC.91.txt.0,"No side effects, but I always add acidophilous to my diet with any anti-inflammatories or antibiotics."
+488,ARTHROTEC.91.txt.1,I am only taking 75 mg a day and it is wonderful for relieving all of my aches and pains.
+489,ARTHROTEC.92.txt.0,"Heavy, extended bleeding during menstruation."
+490,ARTHROTEC.92.txt.1,works good on back pain.
+491,ARTHROTEC.93.txt.0,"Extremely heavy menstral cycles, fatigue, slow healing & clotting."
+492,ARTHROTEC.93.txt.1,"If I miss a day, headaches begin to creep in."
+493,ARTHROTEC.93.txt.2,"Tried many others, this seemed to work best for quite some time."
+494,ARTHROTEC.93.txt.3,"No day is pain free, though."
+495,ARTHROTEC.93.txt.4,Not bad on stomach - always take w/ milk or food.
+496,ARTHROTEC.93.txt.5,"This is genetic for me, so NSAIDs will be in my life for a while."
+497,ARTHROTEC.93.txt.6,but fear long-term use of this one.
+498,ARTHROTEC.94.txt.0,"Experienced excruciating, unusual abdominal pain (bowel, uterine) and lower back pain for about 5 hours after taking (including diarrhea 6 times), and heart palpitations and vaginal bleeding for about a day after taking."
+499,ARTHROTEC.94.txt.1,I took with 2 aspirin (which I've since learned is contraindicated) and some fruit.
+500,ARTHROTEC.94.txt.2,This may be the reason for problems in my case.
+501,ARTHROTEC.94.txt.3,"I will not take it again as the pain was extreme, but others should be cautious to take with lots of food and no aspirin."
+502,ARTHROTEC.95.txt.0,Terrible first of all I had diarrhoea my doseage was increased to 75 and a few days ago my feet and ankles started swelling up.
+503,ARTHROTEC.95.txt.1,I went to my GP and the results of my blood test showed there was something wrong with my liver and I am a non-drinker.
+504,ARTHROTEC.95.txt.2,My blood pressure had gone sky high so my that is why the swelling.
+505,ARTHROTEC.95.txt.3,I was told to stop taking Arthrotec and am now using a natural product that seems to work it is called Pernamax.
+506,ARTHROTEC.96.txt.0,"For the first week I took one pill at bedtime, but then switched to mornings with breakfast."
+507,ARTHROTEC.96.txt.1,I experienced extreme uterine cramping within 30 minutes of taking in the morning; I was in excruciating pain for an hour so I called an ambulance and was rushed to the emergency room.
+508,ARTHROTEC.96.txt.2,Heavy bleeding started within 30 minutes after the cramping ceased.
+509,ARTHROTEC.96.txt.3,"Medical personnel dismissed the symptoms as not being related to taking this drug, but once I stopped taking, my cramping and bleeding stopped."
+510,ARTHROTEC.96.txt.4,Subsequent uterine & vaginal ultrasounds did not show anything else to be the cause.
+511,ARTHROTEC.96.txt.5,My OB/Gyn told me that she uses misoprostal (1 of the drugs in Arthrotec) for miscarriages & advised me to stop taking the drug.
+512,ARTHROTEC.96.txt.6,I would not recommend to females.
+513,ARTHROTEC.96.txt.7,"If you do take this drug, please pay careful attention to your body and other symptoms that may appear."
+514,ARTHROTEC.96.txt.8,Read all drug material carefully.
+515,ARTHROTEC.97.txt.0,The symptoms got progressively worse with time.
+516,ARTHROTEC.97.txt.1,"They included fluid retention, all over muscle pain, cramps."
+517,ARTHROTEC.97.txt.2,I stopped taking them a week ago and felt much better the next day.
+518,ARTHROTEC.97.txt.3,Some of the side effects haven't totally disappeared but I'm improving with each day.
+519,ARTHROTEC.97.txt.4,My doctor doesn't believe that this medication could cause this reaction.
+520,ARTHROTEC.98.txt.0,HAVE BEEN TAKING 1 75 ARTHROTEC DAILY IT HAS ALMOST TOTALY ELIMINATED MY KNEE PAIN I HAD ALMOST RESIGNED MYSELF TO A KNEE REPLACEMENT.
+521,ARTHROTEC.99.txt.0,If I take the pill on an empty stomach I get a very faint sensation of queasiness .
+522,ARTHROTEC.99.txt.1,almost to faint to notice.
+523,ARTHROTEC.99.txt.2,"However, I also get diarrhoea at least twice a day."
+524,ARTHROTEC.99.txt.3,"There are no gas pains and no other symptoms, so it's inconvenient more than anything else."
+525,ARTHROTEC.99.txt.4,"When I am on holiday at the coast I am pain free, mostly, so don't take any Arthrotec, but when I get back to a drier climate the pain is severe, so Arthrotec is very important to me and my quality of life."
+526,ARTHROTEC.99.txt.5,It also allows me to sleep.
+527,ARTHROTEC.100.txt.0,no side effects for the first two months .
+528,ARTHROTEC.100.txt.1,then vaginal bleeding 2 wks after menstral cycle.
+529,ARTHROTEC.100.txt.2,stomach pain.
+530,ARTHROTEC.100.txt.3,canker sores in my mouth.
+531,ARTHROTEC.100.txt.4,headache.
+532,ARTHROTEC.100.txt.5,been off for 1 week still have bleeding.
+533,ARTHROTEC.100.txt.6,helped my pain alot .
+534,ARTHROTEC.100.txt.7,too scared to take this drug again.
